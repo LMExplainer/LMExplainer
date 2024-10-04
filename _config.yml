@@ -28,4 +28,4 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-baseurl: "/xplainllm"
+baseurl: ""
